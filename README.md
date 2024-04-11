@@ -26,4 +26,6 @@
 
 Это новая ветка Develop
 
+Серверные изменения в ветке Develop
+
 А это ветка new branch from develop
