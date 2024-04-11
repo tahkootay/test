@@ -25,3 +25,5 @@
 Изменения в ветке new_branch
 
 Это новая ветка Develop
+
+А это ветка new branch from develop
